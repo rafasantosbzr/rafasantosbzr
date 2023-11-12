@@ -4,7 +4,7 @@
 
 <h3>About me</h3>
 <p align="left"> 
-  Hello, world! I'm Rafa, a 31-year-old Brazilian-based backend software developer with a passion for movies and solving puzzles. 
+I'm Rafa, a 31-year-old Brazilian-based backend software developer with a passion for movies and solving puzzles. 
 
 I'm currently taking a backend software development course for JavaScript at Cubos Academy while also learning TypeScript on my own. 
 
