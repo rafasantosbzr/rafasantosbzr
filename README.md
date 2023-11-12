@@ -2,6 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h3>About me</h3>
 <p align="left"> 
   Hello, world! I'm Rafa, a 31-year-old Brazilian-based backend software developer with a passion for movies and solving puzzles. 
 
