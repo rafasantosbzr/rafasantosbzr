@@ -1,16 +1,32 @@
-# Olá, pessoal! :raising_hand_man:
+![](https://komarev.com/ghpvc/?username=rafasantosbzr&color=006bed)
 
-Meu nome é Rafael Santos Bezerra e estou em processo de transição de carreira da área de ensino e tradução em Língua Inglesa - onde tenho mais de 10 anos de experiência, para a área da Programação, onde atualmente faço um curso de **Desenvolvimento de Software com foco em Backend** na [Cubos Academy](https://cubos.academy/). 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
-Estou aberto e motivado a aprender novas linguagens e tecnologias, de forma a expandir meu repertório enquanto programador.
+<p align="left"> 
+  Hello, world! I'm Rafa, a 31-year-old Brazilian-based backend software developer with a passion for movies and solving puzzles. 
 
-## :point_right: Para me encontrar:
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-santos-bezerra/)
+I'm currently taking a backend software development course at Cubos Academy while also learning TypeScript on my own. 
 
-## :man_technologist: Hard skills:
-![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+I'm looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions.
+</p>
 
-![Principais Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=rafasantosbzr&theme=tokyonight&hide_border=true&custom_title=Principais%20%Linguagens)
+<h3>Skills</h3>
+
+**Technologies**
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="NodeJS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git"/></code>
+
+<h3>Stats</h3>
+<a href="https://github.com/rafasantosbzr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafasantosbzr&show_icons=true" />
+</a>
+
+<h3>Contact me</h3>
+
+[![Linkedin](https://img.shields.io/badge/-Rafael_Santos_Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=rafael-santos-bezerra)](https://www.linkedin.com/in/rafael-santos-bezerra/)
+[![GitHub](https://img.shields.io/github/followers/rafasantosbzr?label=follow&style=social)](https://github.com/rafasantosbzr)
