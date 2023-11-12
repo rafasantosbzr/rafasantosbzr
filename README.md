@@ -2,14 +2,26 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+<h3>Sobre mim</h3>
+<p align="left"> 
+Sou o Rafa, um desenvolvedor de software backend brasileiro de 31 anos, apaixonado por filmes e por resolver problemas.
+
+Atualmente, estou fazendo um curso de desenvolvimento de software backend para JavaScript na Cubos Academy, enquanto também aprendo TypeScript por conta própria.
+
+Estou procurando oportunidades para aplicar minhas habilidades de resolução de problemas e criatividade para construir soluções de software inovadoras.
+
+---
 <h3>About me</h3>
 <p align="left"> 
 I'm Rafa, a 31-year-old Brazilian-based backend software developer with a passion for movies and solving puzzles. 
 
-I'm currently taking a backend software development course for JavaScript at Cubos Academy while also learning TypeScript on my own. 
-
+I'm currently taking a backend software development course for JavaScript at Cubos Academy while also learning TypeScript on my own.
+ 
 I'm looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions.
+
+---
 </p>
+
 
 <h3>Technologies</h3>
 <div align="left">
