@@ -4,20 +4,20 @@
 
 <h3>Sobre mim</h3>
 <p align="left"> 
-Sou o Rafa, um desenvolvedor de software backend brasileiro de 31 anos, apaixonado por filmes e por resolver problemas.
+Oi! Sou o Rafa, um desenvolvedor de software backend apaixonado por filmes, resolver problemas e quebra-cabeças.
 
-Atualmente, estou fazendo um curso de desenvolvimento de software backend para JavaScript na Cubos Academy, enquanto também aprendo TypeScript por conta própria.
+Atualmente, curso desenvolvimento de software backend na Cubos Academy enquanto também aprendo TypeScript por conta própria.
 
-Estou procurando oportunidades para aplicar minhas habilidades de resolução de problemas e criatividade para construir soluções de software inovadoras.
+Busco oportunidades para aplicar minhas habilidades de resolução de problemas e criatividade para construir soluções de software inovadoras como desenvolvedor.
 
 ---
 <h3>About me</h3>
 <p align="left"> 
-I'm Rafa, a 31-year-old Brazilian-based backend software developer with a passion for movies and solving puzzles. 
+Hi! I'm Rafa, a Brazilian-based backend software developer with a passion for movies, solving problems and puzzles. 
 
-I'm currently taking a backend software development course for JavaScript at Cubos Academy while also learning TypeScript on my own.
+I'm currently taking a backend software development course at Cubos Academy while also learning TypeScript on my own.
  
-I'm looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions.
+I'm looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
 
 ---
 </p>
