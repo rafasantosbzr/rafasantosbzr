@@ -6,16 +6,16 @@
 <h3>📢 About me</h3>
 <p align="left"> 
 
-- 👤 I'm Rafa, a Brazilian-based back-end software developer with a passion for movies, problem-solving and puzzles. 
+👤 I'm Rafa, a Brazilian-based back-end software developer with a passion for movies, problem-solving and puzzles. 
 
-- 🎓 I hold a technical formation in back-end software development from Cubos Academy.
+👨🏾‍🎓 I hold a technical formation in back-end software development from Cubos Academy.
  
-- 🔍 I am looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
+👨🏾‍💼 I am looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
 
 ---
 </p>
 
-<h3>Technologies</h3>
+<h3>🖲️ Technologies</h3>
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -25,7 +25,7 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
-<h3>Contact me</h3>
+<h3>📭 Contact me</h3>
 
 <a href ="mailto:rafasantosbzr@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/rafael-santos-bezerra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
