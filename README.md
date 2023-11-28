@@ -1,44 +1,34 @@
 ![](https://komarev.com/ghpvc/?username=rafasantosbzr&color=006bed)
+[![GitHub](https://img.shields.io/github/followers/rafasantosbzr?label=follow&style=social)](https://github.com/rafasantosbzr)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+## <Hello, 🌎/>
 
-<h3>Sobre mim</h3>
+<h3>👤 About me</h3>
 <p align="left"> 
-Oi! Sou o Rafa, um desenvolvedor de software backend apaixonado por filmes, resolver problemas e quebra-cabeças.
 
-Atualmente, curso desenvolvimento de software backend na Cubos Academy enquanto também aprendo TypeScript por conta própria.
+- 💻 I'm Rafa, a Brazilian-based back-end software developer with a passion for movies, problem-solving and puzzles. 
 
-Busco oportunidades para aplicar minhas habilidades de resolução de problemas e criatividade para construir soluções de software inovadoras como desenvolvedor.
-
----
-<h3>About me</h3>
-<p align="left"> 
-Hi! I'm Rafa, a Brazilian-based backend software developer with a passion for movies, solving problems and puzzles. 
-
-I'm currently taking a backend software development course at Cubos Academy while also learning TypeScript on my own.
+- 🎓 I hold a technical formation in back-end software development from Cubos Academy.
  
-I'm looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
+- 📢 I am looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
 
 ---
 </p>
 
-
 <h3>Technologies</h3>
-<div align="left">
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"/></code>
-<code><img src="https://cdn.simpleicons.org/amazonaws/232F3E" height="40" alt="amazonwebservices logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"/></code>
-<br>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"/></code>
-<code><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"/></code>
-</div>
+
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
 
 <h3>Contact me</h3>
 
-[![Linkedin](https://img.shields.io/badge/-Rafael_Santos_Bezerra-blue?style=flat-square&logo=Linkedin&logoColor=white&link=rafael-santos-bezerra)](https://www.linkedin.com/in/rafael-santos-bezerra/)
-[![GitHub](https://img.shields.io/github/followers/rafasantosbzr?label=follow&style=social)](https://github.com/rafasantosbzr)
+<a href ="mailto:rafasantosbzr@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iCloud-3693F3?style=for-the-badge&logo=iCloud&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/rafael-santos-bezerra" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href ="https://wa.me/5583996212798" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
+
