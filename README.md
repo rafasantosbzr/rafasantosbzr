@@ -1,16 +1,16 @@
 ![](https://komarev.com/ghpvc/?username=rafasantosbzr&color=006bed)
 [![GitHub](https://img.shields.io/github/followers/rafasantosbzr?label=follow&style=social)](https://github.com/rafasantosbzr)
 
-## <Hello, 🌎/>
+## <Hello, 🌎!/>
 
-<h3>👤 About me</h3>
+<h3>📢 About me</h3>
 <p align="left"> 
 
-- 💻 I'm Rafa, a Brazilian-based back-end software developer with a passion for movies, problem-solving and puzzles. 
+- 👤 I'm Rafa, a Brazilian-based back-end software developer with a passion for movies, problem-solving and puzzles. 
 
 - 🎓 I hold a technical formation in back-end software development from Cubos Academy.
  
-- 📢 I am looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
+- 🔍 I am looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
 
 ---
 </p>
@@ -19,7 +19,6 @@
 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Pyhton](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
