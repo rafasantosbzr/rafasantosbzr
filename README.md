@@ -5,4 +5,4 @@
  
 • 🔭 Looking for opportunities to apply my problem-solving skills and creativity to build innovative software solutions as a developer.
 
-• 🧩 Passionate about [movies](https://boxd.it/1FD7), problem-solving and [puzzles](https://app.codesignal.com/profile/rafasantosbz).
+• 🧩 Passionate about movies, problem-solving and strategy games.
